@@ -1,0 +1,29 @@
+* {
+    background-color: black;
+    color: white
+}
+header {
+    color: white;
+}
+
+nav {
+    font-size: 30px;
+}
+body {
+    margin: 50px;
+}
+article {
+    padding: 20px;
+}
+p {
+    text-align: justify;
+    font-size: 20px;
+    font-family: Algerian;
+}
+a {
+    font-size: 20px;
+    color: #d2b973;
+}
+img {
+    padding: 60px;
+}
